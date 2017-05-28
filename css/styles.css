@@ -1,0 +1,376 @@
+.banner {
+	width: 80%;
+	height: 500px;
+	background-color:blue;
+	margin-top: 2%;
+	top: 70px;
+	position: absolute;
+	margin-left: 10%;
+}
+.banner img{
+	width: 100%;
+	height: 500px;
+}
+nav {
+	font-family: 'Keania One', cursive;
+	color: black;
+	float: left;
+	width:50%;
+	height: 25px;
+	margin-left: 25%;
+	clear: both;
+	padding-top: 0;
+}
+nav:active{
+	text-decoration: none;
+}
+.navli {
+	float: left;
+	text-align: center;
+	width: 10%;
+	list-style: none;
+	height: 50px;
+	padding-top: 2%;
+}
+
+.card {
+  width:40%;
+  height:250px;
+  background:#C1C1C1;
+  float:left;
+  margin:5%;
+  text-align:center;
+}
+.card img{
+	width: 40%;
+	height: 250px;
+
+}
+.card p{
+	padding:2%;
+}
+.card h1{
+	font-family: 'Keania One', cursive;
+}
+.bot-inf{
+	font-family: 'Keania One', cursive;
+	width: 20%;
+	margin-right: 40%;
+	margin-left: 40%;
+	position: relative;
+	top: 1300px;text-decoration: none;
+
+}
+.bot-inf p{
+	float: left;
+	margin-left: 2%;
+}
+.bot-inf2 p{
+	float: left;
+	margin-left: 2%;
+}
+.bot-inf3 p{
+	float: left;
+	margin-left: 2%;
+}
+#cards {
+	float: left;
+	width:50%;
+	height: 50px;
+	margin-left: 25%;
+	position: relative;
+	top: 600px;
+}
+.employees {
+	width: 60%;
+	height: auto;
+	background-color:#C1C1C1;
+	top: 100px;
+	position: absolute;
+	left: 20%;
+	text-align: center;
+}
+.emp {
+	width: 30%;
+	height: 250px;
+	float: left;
+	margin:1.5%;
+	background-color: #C1C1C1;
+	position: relative;
+}
+
+.emp-inf{
+	width: 50%;
+	height: 500px;
+	background-color: #C1C1C1;
+	left: 25%;
+	position: relative;
+	top: 500px;
+}
+.emp-inf ul{
+	list-style: none;
+	height: auto;
+}
+.emp-inf2{
+	margin-left: 25%;
+	width: 50%;
+	height: 500px;
+	position: relative;
+	top: 500px;
+
+}
+.emp-inf3{
+	margin-left: 25%;
+	width: 50%;
+	height: 500px;
+	position: relative;
+	top: 500px;
+	background-color: #C1C1C1;
+
+}
+
+.cont-link1{
+	font-size: 12pt;
+	padding:2%;
+	
+}
+.cont-link2{
+	font-size: 12pt;
+	padding:2%;
+	}
+.cont-link13{
+	font-size: 12pt;
+	padding:2%;
+	
+}
+.bot-inf img{
+	width: 20px;
+	height: 20px;
+	margin:2%;
+}
+.bot-inf2{
+	font-family: 'Keania One', cursive;
+	text-align: center;
+	width: 20%;
+	margin-right: 40%;
+	margin-left: 40%;
+	position: relative;
+	top:520px;text-decoration: none;
+}
+.bot-inf2 img{
+	width: 20px;
+	height: 20px;
+	margin:2%;
+}
+.emp-inf h1{
+	text-align:center;
+	text-decoration:underline;
+	font-family: 'Keania One', cursive;
+}
+.emp-inf li{
+	text-align: right;
+	padding-right:20%;
+	float: right;
+	padding-top: 15%;
+	font-size: 24pt;
+}
+.emp-inf p{
+	width: 30%;
+	padding-left: 10%;
+	padding-top: 8%;
+}
+.emp-inf2 li{
+	text-align: left;
+	padding-left:10%;
+	float: left;
+	padding-top: 20%;
+	font-size: 24pt;
+	list-style: none;
+}
+.emp-inf2 p{
+	width: 30%;
+	padding-right: 10%;
+	padding-top: 10%;
+	float: right;
+}
+.emp-inf3 li{
+	text-align: right;
+	padding-right:10%;
+	float: right;
+	padding-top: 25%;
+	font-size: 24pt;
+	list-style: none;
+}
+.emp-inf3 p{
+	width: 30%;
+	padding-left: 10%;
+	padding-top: 18%;
+}
+.emp h1{
+	width: 50%;
+	height: auto;
+	font-size: 12pt;
+	top: 200px;
+	text-decoration: underline;
+	font-family: 'Keania One', cursive;
+	position:absolute;
+}
+.img-ttl{
+	top: 200px;
+}
+#container {
+	width: 80%;
+	height: auto;
+	float: left;
+	margin-left: 10%;
+	background:#C1C1C1;
+	margin-top: 5%;
+	margin-bottom: 5%;
+
+}
+.ban-txt{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+
+
+}
+.ban-txt h1{
+	text-align: center;
+	font-family: 'Keania One', cursive;
+}
+.ban-img{
+	float: right;
+	width:50%;
+	height: 500px;
+
+}
+.ban-img img{
+	width: 100%;
+	height: 500px;
+}
+.aanpak{
+	width: 50%;
+	height: auto;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+.aanpak-img{
+ width: 100px;
+ height:100px;
+ float: left;
+ margin-right: 5%;
+ margin-top: 3%;
+}
+.aanpak h1{
+	text-align: left;
+	font-family: 'Keania One', cursive;
+}
+
+.bot-inf3{
+	font-family: 'Keania One', cursive;
+	text-align: center;
+	width: 20%;
+	margin-right: 40%;
+	margin-left: 40%;
+	position: relative;text-decoration: none;
+}
+.bot-inf3 img{
+	width: 20px;
+	height: 20px;
+	margin:2%;
+}
+.one{
+	width: 100%;
+	padding-top: 5%;
+	padding-bottom:5%;
+	padding-right: 5%;
+}
+.two{
+	width: 100%;
+	padding-top: 5%;
+	padding-bottom:5%;
+	padding-right: 5%;
+	background-color: #C1C1C1;
+}
+.port{
+	width: 50%;
+	height: auto;
+	margin-left: 25%;
+	background-color: #C1C1C1;
+	margin-top: 3%;
+
+}
+.port-cards{
+	width:40%;
+	margin:5%;
+	height: 200px;
+	
+}
+.port h1{
+	float: right;
+	text-align: center;
+	width: 20%;
+	margin-right: 15%;
+	margin-top: 12%;
+	font-family: 'Keania One', cursive;
+}
+.cont-img{
+	width: 70%;
+	margin-left: 15%;
+	height: auto;
+	background:#C1C1C1;
+}
+.cont-img img{
+	width: 100%;
+	height: 500px;
+}
+.cont-send{
+	width: 50%;
+	height: auto;
+	margin-left: 25%;
+	background:#C1C1C1;
+}
+.cont-send input{
+	width:40%;
+	margin-left: 30%;
+}
+
+.cont-send p{
+	width:40%;
+	margin-left: 30%;
+}
+.cont-send h1{
+	width:40%;
+	margin-left: 30%;
+	text-align: center;
+	font-family: 'Keania One', cursive;
+}
+.button {
+	text-align: center;
+	background-color: #8EBAAD;
+	color: white;
+	border-radius: 0.75em 0.75em 0.75em 0.75em;
+	font-size:18pt;
+}
+.but{
+	width: 40%;
+	margin-left: 30%;
+	
+
+}
+.cont-link3{
+	float:right;
+}
+.emp img{
+	width: 60%;
+	height: 250px;
+	border-radius: 0.5px 0.5px 0.5px 0.5px;
+}
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+
